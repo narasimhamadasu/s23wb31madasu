@@ -4,6 +4,6 @@ good commit
 class:kite
 <br>
 attributes:
-kite_color(String)
-Kite_quality(String)
-Kite_cost(String)
+kite_color
+Kite_quality
+Kite_cost
